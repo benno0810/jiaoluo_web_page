@@ -1,0 +1,14 @@
+.popover .arrow {
+    width: 0rem;
+    height: 0rem;
+    margin: -1rem;
+}
+
+.popover .arrow:after, .popover .arrow:before {
+    position: absolute;
+    display: none;
+    content: "";
+    border-color: transparent;
+    border-style: solid
+}
+

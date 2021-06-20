@@ -1,0 +1,33 @@
+
+h1,.h1{
+    color: #282b54
+}
+
+h2,.h2{
+    color: #282b54
+}
+
+h3,.h3{
+    color: #282b54
+}
+
+h1 small,.h1 small, h1 .small, .h1 .small{
+    font-size: 87.5%;
+    font-weight: normal;
+    line-height: 1;
+    color: #9a97ca;
+}
+
+h2 small,.h2 small, h2 .small, .h2 .small{
+    font-size: 87.5%;
+    font-weight: normal;
+    line-height: 1;
+    color: #9a97ca;
+}
+
+h3 small,.h3 small, h3 .small, .h3 .small{
+    font-size: 87.5%;
+    font-weight: normal;
+    line-height: 1;
+    color: #9a97ca;
+}

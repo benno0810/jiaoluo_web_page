@@ -1,0 +1,67 @@
+section.contact ul.list-social li.social-email a {
+    background-color: #ffdc64
+}
+
+section.contact ul.list-social li.social-email a:hover {
+    background-color: #ffc107;
+}
+
+section.contact ul.list-social {
+    margin-bottom: 0
+}
+
+section.contact ul.list-social li a {
+    font-size: 2.5rem;
+    line-height: 80px;
+    display: block;
+    width: 80px;
+    height: 80px;
+    color: #fff;
+    border-radius: 100%
+}
+
+section.contact ul.list-social li.social-twitter a {
+    background-color: #1da1f2
+}
+
+section.contact ul.list-social li.social-twitter a:hover {
+    background-color: #0d95e8
+}
+
+section.contact ul.list-social li.social-facebook a {
+    background-color: #3b5998
+}
+
+section.contact ul.list-social li.social-facebook a:hover {
+    background-color: #344e86
+}
+
+section.contact ul.list-social li.social-google-plus a {
+    background-color: #dd4b39
+}
+
+section.contact ul.list-social li.social-google-plus a:hover {
+    background-color: #d73925
+}
+
+section.contact {
+    text-align: center
+}
+section.contact {
+    text-align: center
+}
+
+section.contact h2 {
+    margin-top: 0;
+    margin-bottom: 25px
+}
+
+section.contact h2 i {
+    color: #282b54
+}
+section.contact ul.list-social li a p {
+    color: #282b54;
+    font-size: 0.85rem
+
+}
+

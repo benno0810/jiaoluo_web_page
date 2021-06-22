@@ -1,14 +1,17 @@
 
 h1,.h1{
-    color: #282b54
+    color: #282b54;
+    font-family: 'Alibaba-PuHuiTi-B' !important;
 }
 
 h2,.h2{
-    color: #282b54
+    color: #282b54;
+    font-family: 'Alibaba-PuHuiTi-M' !important;
 }
 
 h3,.h3{
-    color: #282b54
+    color: #282b54;
+    font-family: 'Alibaba-PuHuiTi-R' !important;
 }
 
 h1 small,.h1 small, h1 .small, .h1 .small{
@@ -30,4 +33,15 @@ h3 small,.h3 small, h3 .small, .h3 .small{
     font-weight: normal;
     line-height: 1;
     color: #9a97ca;
+}
+
+a,.a{
+   font-family: 'Alibaba-PuHuiTi-B' !important;
+}
+span,.span{
+    font-family: 'Alibaba-PuHuiTi-B' !important;
+}
+p,.p{
+    color: #282b54;
+    font-family: 'Alibaba-PuHuiTi-R' !important;
 }

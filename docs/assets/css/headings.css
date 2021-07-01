@@ -45,3 +45,14 @@ p,.p{
     color: #282b54;
     font-family: 'Alibaba-PuHuiTi-R' !important;
 }
+
+.features-boxed .item .box {
+    text-align: center;
+    align-items: center;
+    padding: 30px;
+    margin-bottom: 30px;
+}
+div[class="avatar"]{
+    min-height: 100px;
+}
+
